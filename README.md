@@ -51,8 +51,4 @@ I'm a passionate Full Stack Developer focused on building modern web application
 
 <img src="https://komarev.com/ghpvc/?username=Mustufa890&label=Profile%20Views&style=flat" />
 
----
 
-## 💬 Random Dev Quote
-
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
